@@ -30,7 +30,7 @@ The tool is a zero-dependency Python package (3.8+, stdlib only). Pick one:
 
 ```bash
 # from a clone (gives you the `model-fingerprint` command)
-git clone https://github.com/kyssta-exe/model-fingerprint.git
+git clone https://github.com/okyssta/model-fingerprint.git
 cd model-fingerprint && python -m pip install -e .
 
 # or run in place, no install

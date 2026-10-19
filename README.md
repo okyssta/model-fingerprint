@@ -20,7 +20,7 @@ Authorisation: only probe endpoints and keys you own or have written permission 
 ## Install
 
 ```bash
-git clone https://github.com/kyssta-exe/model-fingerprint.git
+git clone https://github.com/okyssta/model-fingerprint.git
 cd model-fingerprint
 python -m pip install -e .          # or just run it in place: python -m model_fingerprint
 ```

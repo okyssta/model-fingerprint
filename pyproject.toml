@@ -9,7 +9,7 @@ description = "Black-box fingerprinting of LLM endpoints: serving-stack DNA, tok
 readme = "README.md"
 requires-python = ">=3.8"
 license = { text = "MIT" }
-authors = [{ name = "Kyssta", email = "kyssta-exe@users.noreply.github.com" }]
+authors = [{ name = "Kyssta", email = "ookyssta@users.noreply.github.com" }]
 keywords = ["llm", "fingerprinting", "model-substitution", "api-audit", "attribution"]
 classifiers = [
     "Development Status :: 4 - Beta",
@@ -23,8 +23,8 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/kyssta-exe/model-fingerprint"
-Issues = "https://github.com/kyssta-exe/model-fingerprint/issues"
+Homepage = "https://github.com/okyssta/model-fingerprint"
+Issues = "https://github.com/okyssta/model-fingerprint/issues"
 
 [project.scripts]
 model-fingerprint = "model_fingerprint.cli:main"
